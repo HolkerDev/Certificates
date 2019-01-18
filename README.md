@@ -3,7 +3,7 @@
 
 * [CCA Certificate Java Level 1] (https://github.com/HolkerDev/Certificates/blob/master/CCA-Certificate-Java%20Level%201.pdf)
 
-* [CCA Certificate Java Level 1] (https://github.com/HolkerDev/Certificates/blob/master/CCA-Certificate-Java%20Level%202.pdf)
+* [CCA Certificate Java Level 2] (https://github.com/HolkerDev/Certificates/blob/master/CCA-Certificate-Java%20Level%202.pdf)
 
 ## Python
 
